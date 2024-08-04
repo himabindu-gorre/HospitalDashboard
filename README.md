@@ -23,19 +23,19 @@ The dashboard includes the following sections:
 
 ## Features
 
-- Visual Representation of Data**: The dashboard provides a clear and interactive visual representation of hospital data.
-- Date Range Selection**: Users can filter data by selecting specific date ranges to analyze trends over time.
-- Patient ID Filtering**: The dashboard allows filtering data by patient ID to view individualized patient information.
-- Bed Occupancy Analysis**: Detailed breakdown of bed occupancy across different types of beds (Private, General, ICU).
-- Doctor Feedback**: Analyze the volume of feedback received by different doctors.
-- Diagnosis Distribution**: Understand the distribution of various diagnosis types among patients.
-- Billing vs. Insurance**: Compare the total billing amount with the sum of health insurance amounts for different diagnoses.
+- Visual Representation of Data: The dashboard provides a clear and interactive visual representation of hospital data.
+- Date Range Selection: Users can filter data by selecting specific date ranges to analyze trends over time.
+- Patient ID Filtering: The dashboard allows filtering data by patient ID to view individualized patient information.
+- Bed Occupancy Analysis: Detailed breakdown of bed occupancy across different types of beds (Private, General, ICU).
+- Doctor Feedback: Analyze the volume of feedback received by different doctors.
+- Diagnosis Distribution: Understand the distribution of various diagnosis types among patients.
+- Billing vs. Insurance: Compare the total billing amount with the sum of health insurance amounts for different diagnoses.
 
 ## Technologies
 
 The project utilizes the following technologies:
 
-- Power BI**: Used for creating visualizations and designing the dashboard layout.
+- Power BI: Used for creating visualizations and designing the dashboard layout.
 - Data Sources: The dashboard is fed with relevant hospital data from various data sources.
 
 ## Setup
