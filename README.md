@@ -1,3 +1,4 @@
+
 # Hospital Dashboard
 
 This project is a comprehensive dashboard for "Papollo Hospitals: Work and Leads Workflow". The dashboard visualizes key hospital metrics, including admit and discharge dates, billing amounts, bed occupancy, doctor feedback, diagnosis types, and billing versus health insurance amounts. The data visualizations provide insights into the hospital's performance and patient care metrics.
